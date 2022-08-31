@@ -1,0 +1,83 @@
+{
+    "manha": [
+      {
+        "id": 2,
+        "atividade": "correr",
+        "hora": "06:45"
+      },
+      {
+        "id": 3,
+        "atividade": "tomar banho",
+        "hora": "07:15"
+      },
+      {
+        "id": 4,
+        "atividade": "transito",
+        "hora": "07:40"
+      },
+      {
+        "id": 5,
+        "atividade": "ler emails",
+        "hora": "08:15"
+      },
+      {
+        "atividade": "acordar",
+        "hora": "04:50",
+        "id": 6
+      }
+    ],
+    "tarde": [
+      {
+        "id": 1,
+        "atividade": "ir para cada dos avós",
+        "hora": "09:00"
+      },
+      {
+        "id": 2,
+        "atividade": "almoço em família",
+        "hora": "12:00"
+      },
+      {
+        "id": 3,
+        "atividade": "ver filme em casa",
+        "hora": "14:00"
+      },
+      {
+        "id": 4,
+        "atividade": "tomar banho",
+        "hora": "17:00"
+      },
+      {
+        "id": 5,
+        "atividade": "arrumar para aniversario",
+        "hora": "17:20"
+      }
+    ],
+    "noite": [
+      {
+        "id": 1,
+        "atividade": "transito",
+        "hora": "17:45"
+      },
+      {
+        "id": 2,
+        "atividade": "comemoração do aniversario",
+        "hora": "18:30"
+      },
+      {
+        "id": 3,
+        "atividade": "transito",
+        "hora": "21:30"
+      },
+      {
+        "id": 4,
+        "atividade": "ligar video game",
+        "hora": "22:00"
+      },
+      {
+        "id": 5,
+        "atividade": "descansar",
+        "hora": "23:00"
+      }
+    ]
+  }
